@@ -1,0 +1,283 @@
+
+  
+ 
+
+	
+	
+		   
+			  
+				      
+					                                        
+						
+							
+							 
+						 
+					  
+				  
+				  
+		      
+	
+
+
+    
+    
+	  
+	  
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+		 
+			 
+				
+				
+			  
+		  
+	  
+
+
+	
+	
+	
+	
+	
+	
+	
+		
+			
+			
+			 
+		 
+	 
+	
+		
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<HTML>
+<HEAD>
+
+<TITLE>Restricted Maintenance Sign In Page</TITLE>
+
+<META HTTP-EQUIV="Expires" CONTENT="0">
+<META HTTP-EQUIV="pragma" CONTENT="no-cache">
+<META NAME="robots" CONTENT="noindex,nofollow">
+
+</HEAD>
+<BODY BGCOLOR="FFFFFF"  onload="document.forms[0].username.focus();">
+
+<CENTER>
+
+
+<font face="Arial, Helvetica, sans-serif">
+<P><img src="/icons/spacer.gif" width="5" height="20" alt=" " border="0" /><P><font size="6"><strong>British Journal of Ophthalmology</strong></font><P>
+
+ 
+
+
+
+<!-- acl login-->
+ 
+
+
+
+<!-- ACL Status Group -->
+<TABLE WIDTH=600 BORDER=3 BORDERCOLOR="#D61334">
+<TR><TD>
+<TABLE WIDTH=600 border="0">
+	<TR>
+		<TD WIDTH=700 ALIGN=MIDDLE>
+	<TABLE border="0">
+		<TR><TD COLSPAN=3><img src="/icons/spacer.gif" width="5" height="5" alt=" " border="0" /></TD></TR>
+		<TR>
+			<TD ALIGN=RIGHT><IMG HSPACE=5 ALT="ERROR: " WIDTH=20 HEIGHT=20 SRC="/icons/shared/misc/error.gif"></TD>
+			<TD ALIGN=MIDDLE><font face="Arial, Helvetica, sans-serif" size="3">  
+  
+  
+    
+       <font color="#D61334"><strong>This item is Restricted to Maintenance Users Only.</strong></font><br />Please sign in with your Maintenance user name and password.<br />
+      
+    
+</font></TD>
+			<TD ALIGN=LEFT><IMG HSPACE=5 ALT="ERROR: " WIDTH=20 HEIGHT=20 SRC="/icons/shared/misc/error.gif"></TD>
+		</TR>
+		<TR><TD COLSPAN=3><img src="/icons/spacer.gif" width="5" height="5" alt=" " border="0" /></TD></TR>
+	</TABLE>
+</TD>
+	</TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+<img src="/icons/spacer.gif" width="5" height="20" alt=" " border="0" /><BR>
+<!-- end ACL Status Group  -->
+
+
+
+<!-- ACL Sign In Group  -->
+<TABLE WIDTH=180 BORDER=3 BORDERCOLOR="#CCCCCC">
+	<TR><TD>
+		<TABLE WIDTH=180 border="0">
+			<TR>
+				<TD WIDTH=420 ALIGN=LEFT VALIGN=TOP BGCOLOR=#EEEEEE> 
+	
+<form method="post" action="/homepage/BJO_95x60.gif">
+        <input type="hidden" name="normal_login" value="yes">
+        <input type="hidden" name="redirect_path" value="">
+        <input type="hidden" name="redirect_query" value="">
+
+        <input type="hidden" name="uri" value="/homepage/BJO_95x60.gif">
+ 
+	<TABLE WIDTH=180 border="0">
+		<tr>
+			<TD WIDTH=80 ALIGN=RIGHT><NOBR><font face="Arial, Helvetica, sans-serif" size="-1">User Name</font></NOBR></TD>
+			<TD WIDTH=80 ALIGN=MIDDLE><INPUT TYPE="text" NAME="username" VALUE="" SIZE=10 MAXLENGTH=150 TABINDEX="1" id="username"></TD>
+			<TD WIDTH=20 ROWSPAN=2 ALIGN=LEFT VALIGN=MIDDLE> 
+	<font face="Arial, Helvetica, sans-serif" size="-1">
+	
+		<INPUT TYPE="submit" NAME="signin" VALUE="Sign In" TABINDEX="3">
+	
+	</font>
+</td>
+		</TR><TR>
+			<TD WIDTH=80 ALIGN=RIGHT><NOBR><font face="Arial, Helvetica, sans-serif" size="-1"><label for="password">Password</label></font></NOBR></TD>
+			<TD WIDTH=80 ALIGN=MIDDLE><INPUT TYPE="password" NAME="code" VALUE="" SIZE=10 MAXLENGTH=50 TABINDEX="2" id="password"></TD>
+		</tr>
+	</TABLE>
+	
+	
+	
+<INPUT TYPE=HIDDEN NAME="aclmsg" VALUE="true">
+	
+	
+	</FORM>
+ 
+</TD>
+			</TR>
+		</TABLE>
+	</TD></TR>
+</TABLE>
+<img src="/icons/spacer.gif" width="5" height="20" alt=" " border="0" /><BR>
+<!-- end ACL Sign In Group  -->
+
+<P>Copyright &copy; 2020 by BMJ Publishing Group Ltd.<P>
+
+
+
+
+</CENTER>
+
+
+
+
+
+</BODY>
+</HTML>
+
+
+
+
+ 
+
+
